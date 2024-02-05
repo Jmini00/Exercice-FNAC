@@ -1,1 +1,7 @@
 ![Accueil](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/9e321846-eb22-477a-95fd-bf8fbd1d024b)
+![About](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/458201a1-1c00-4ef9-b168-c47767759efb)
+![Smartphones](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/5305aad1-b9ed-49e9-ad99-e772af683364)
+![Computers](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/6c7dcf9f-b205-4917-a2a7-cc8ddebf2c35)
+![TV](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/7a29c121-04b1-4d51-a7d6-fce5d2d2a001)
+![Appliances](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/1d398dda-d57f-407c-a2e4-2907c5110d95)
+![Contact](https://github.com/Jmini00/Exercice-FNAC/assets/141427289/f98e5f08-c866-4b19-8e73-78b4cf2a712e)
